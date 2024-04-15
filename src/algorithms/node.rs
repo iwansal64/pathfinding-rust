@@ -37,3 +37,5 @@ impl Node {
         }
     }
 }
+
+pub type Nodes = HashMap<String, Node>;
